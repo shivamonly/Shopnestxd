@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Test User",
+    "email": "admin@gmail.com",
+    "passwordHash": "$2b$10$VqG7nzpgia2U381xJPtnUOJA0/fcSDBbAijZCfrxPkfgg0oBatimO",
+    "role": "admin",
+    "id": "yjbb9wmz6dsmto04rsmfp",
+    "createdAt": "2026-05-20T14:52:45.483Z"
+  },
+  {
+    "name": "Shivam verma",
+    "email": "Shlvxmonly@gmail.com",
+    "passwordHash": "$2b$10$RcFKu64XoPprt/rEqeoO/OlzX3HlRj0y.1UBoWktfigZMk8qe.Epi",
+    "role": "user",
+    "id": "08qe78ew2umaiz3w74q09g",
+    "createdAt": "2026-05-20T14:58:52.115Z"
+  }
+]

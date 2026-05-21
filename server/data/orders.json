@@ -1,0 +1,24 @@
+[
+  {
+    "userId": "yjbb9wmz6dsmto04rsmfp",
+    "products": [
+      {
+        "id": "kapzp0keaj4",
+        "name": "Nomad Canvas Backpack",
+        "price": 79.99,
+        "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&auto=format&fit=crop&q=60",
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 79.99,
+    "shippingAddress": {
+      "address": "123 Main St",
+      "city": "Chicago",
+      "postalCode": "60601",
+      "country": "USA"
+    },
+    "id": "szd6pek6cfhvwudh7vc0ye",
+    "status": "Cancelled",
+    "createdAt": "2026-05-20T14:55:33.186Z"
+  }
+]
